@@ -31,7 +31,7 @@ const App = () => {
       </motion.h2>
 
     
-      <div className="flex justify-center gap-16 mb-6">
+      <div className="flex justify-center gap-6 mb-6">
         <div className="text-center">
           <div className="text-4xl mb-2 text-black">𒈞</div>
           <div className="text-sm font-medium">Personal Notification</div>
